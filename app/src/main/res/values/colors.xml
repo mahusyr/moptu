@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="mahoyoBg">#FF0000</color>
+    <color name="knkBg">#5500FF</color>
+    <color name="tsukiBg">#1100FF</color>
+    <color name="fateBg">#FFFF00</color>
 </resources>
